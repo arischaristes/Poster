@@ -15,6 +15,6 @@
 <p align="center">
   Mobile View
 </p>
-<img src="mobile-view.png" height="20%">  
+<img src="mobile-view.png" height="10%">  
 </td>
 </table>
