@@ -10,7 +10,7 @@
 </p>
 <img src="desktop-view.png">
 </td> 
-<td width="50%" height="50%">
+<td width="50%" height="20%">
 <br>
 <p align="center">
   Mobile View
