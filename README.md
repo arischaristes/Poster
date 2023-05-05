@@ -1,8 +1,8 @@
-### Poster
+## Poster
 
 <table width="100%"> 
 <tr>
-<td width="50%">      
+<td width="50%" height="50%">      
 &nbsp; 
 <br>
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 <img src="desktop-view.png">
 </td> 
-<td width="50%">
+<td width="50%" height="50%">
 <br>
 <p align="center">
   Mobile View
