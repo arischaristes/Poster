@@ -1,4 +1,4 @@
-### Poster desktop/mobile views:
+### Poster
 
 <table width="100%"> 
 <tr>
@@ -6,14 +6,14 @@
 &nbsp; 
 <br>
 <p align="center">
-  Feed Home
+  Desktop View
 </p>
 <img src="desktop-view.png">
 </td> 
 <td width="50%">
 <br>
 <p align="center">
-  Room Conversation Preview
+  Mobile View
 </p>
 <img src="mobile-view.png">  
 </td>
