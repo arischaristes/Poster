@@ -1,19 +1,21 @@
 # Poster
 
-Web Application built with Django
+Web Application built with Django.
 
-## Simple way to install using pipenv
+## Simple way to install using pipenv.
 
-- Clone the repo
+- `git clone https://github.com/arischaristes/Poster.git`
 
-- Making sure you are in the same directory as requirements.txt run install pipenv (this way it will install all requirements automatically)
+- Make sure you are in the same directory as **requirements.txt**.
 
-- Run python manage.py makemigrations
+- `pipenv install ` (All requirements will be installed automatically.)
 
-- Run python manage.py migrate
+- `python manage.py makemigrations`
 
-- Run python manage.py runserver to start the local server
+- `python manage.py migrate`
 
-If you want to create admin account:
+- `python manage.py runserver` (starts the local server)
 
-- Run python manage.py createsuperuser
+If you want to create **admin** account:
+
+- `python manage.py createsuperuser`
