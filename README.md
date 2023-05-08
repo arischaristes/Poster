@@ -10,15 +10,21 @@ Web Application built with **Django**.
 
 - `pipenv install ` (All requirements will be installed automatically.)
 
-- `python manage.py makemigrations`
-
-- `python manage.py migrate`
-
 - `python manage.py runserver` (starts the local server)
 
 If you want to create **admin** account:
 
 - `python manage.py createsuperuser`
+
+## Docker
+
+- Build docker image
+
+- `docker build --tag poster`
+
+- Run docker container
+
+- `docker run --publish 8000:8000 poster`
 
 ## Desktop Preview
 
