@@ -1,0 +1,6 @@
+.gitignore
+desktop-view.png
+mobile-view.png
+Pipfile
+Pipfile.lock
+README.md
