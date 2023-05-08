@@ -18,17 +18,17 @@ If you want to create **admin** account:
 
 ## Docker
 
-- Make sure you are in the same directory as **Dockerfile**
+- Make sure you are in the same directory as **Dockerfile**.
 
-- Build docker image
+- Build docker image.
 
 - `docker build --tag poster .`
 
-- Run docker container
+- Run docker container.
 
 - `docker run --publish 8000:8000 poster`
 
-- You can access the app at `localhost:8000` in any browser
+- You can access the app at `localhost:8000` in any browser.
 
 ## Desktop Preview
 
